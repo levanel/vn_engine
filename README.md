@@ -2,7 +2,7 @@
 ### Web-Based Visual Novel Engine
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/user-attachments/assets/c6b48a57-d39e-46cd-a833-4d362c41bc5b">
+  <img src="https://github.com/user-attachments/assets/c6b48a57-d39e-46cd-a833-4d362c41bc5b">
 </p>
 
 **AIDORU** is a lightweight, flexible, and fully browser-based visual novel engine designed for storytellers, indie developers, and fans of narrative games.  
