@@ -1,0 +1,13 @@
+.editor {
+    width: 40%;
+    padding: 20px;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.editor input, .editor textarea {
+    width: 100%;
+    padding: 8px;
+}

@@ -1,0 +1,39 @@
+.dialog-window {
+    image-rendering: pixelated;
+    text-transform: uppercase;
+    background-color: rgba(0, 0, 0, 0.8); /* Baby pink with 80% opacity */
+    border: solid 4px white; /* White stroke/border */
+    border-radius: 20px; /* Rounded corners */
+    padding: 16px;
+    position: absolute;
+    width: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .dialog-title {
+    font-size: 34px; /* Larger font size */
+    margin-bottom: 12px;
+    font-weight: bold;
+    color: white; /* White text */
+  }
+  
+  .dialog-footer {
+    font-size: 24px; /* Larger font size */
+    font-weight: bold;
+    color: white; /* White text */
+    cursor: pointer;
+    text-align: end;
+    position: absolute;
+    right: 12px;
+    bottom: 12px;
+  }
+  
+  /* Add additional styling if you want for the body text */
+  .dialog-body {
+    font-size: 28px; /* Adjust this if you need larger text */
+    color: white; /* White text */
+    font-weight: bold;
+  }
+  
+  

@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for vs engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "nope"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nope"
+  },
+  "keywords": [
+    "nope"
+  ],
+  "author": "levanel",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
