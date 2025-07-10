@@ -10,7 +10,7 @@ let notes = [
   {
   "id": 1,
   "name": "chapter 1",
-  "details": "garden hose, water landmine, water grenade over the stinlky femcel"
+  "details": "garden"
   },
   {
   "id": 2,
