@@ -1,83 +1,50 @@
 [
   {
     "id": 1,
-    "character_name": "Ankur Senpai",
-    "character_1_emotions": "aks",
+    "character_name": "Ankur",
+    "character_1_emotions": "neutral",
     "action": "speak",
-    "background": "ddlc",
-    "message": "HELLO KITTEN."
+    "background": "park",
+    "message": "Hey there!"
   },
   {
     "id": 2,
-    "character_name": "Tsundere girl",
-    "character_1_emotions": "aks",
-    "character_2_emotions": "tsu",
+    "character_name": "Riya",
+    "character_2_emotions": "smile",
     "action": "speak",
-    "background": "ddlc",
-    "message": "omg alpha senpaii!!! "
+    "background": "park",
+    "message": "Oh, hi Ankur!"
   },
   {
     "id": 3,
-    "character_name": "Ankur Senpai",
-    "character_1_emotions": "aks",
+    "character_name": "Ankur",
+    "character_1_emotions": "happy",
     "action": "speak",
-    "background": "ddlc",
-    "message": "Did someone order a double shot of tall, dark, and cringe~?"
+    "background": "park",
+    "message": "Nice day, isn't it?"
   },
   {
     "id": 4,
-    "character_name": "Tsundere girl",
-    "character_2_emotions": "tsu",
+    "character_name": "Riya",
+    "character_2_emotions": "happy",
     "action": "speak",
-    "background": "ddlc",
-    "message": "B-Baka! I didn't ask for any shots!! Except maybe... one straight to my kokoro~ 💘"
+    "background": "park",
+    "message": "Yeah, it's perfect for a walk."
   },
   {
     "id": 5,
-    "character_name": "Ankur Senpai",
-    "character_1_emotions": "aks",
+    "character_name": "Ankur",
+    "character_1_emotions": "smile",
     "action": "speak",
-    "background": "ddlc",
-    "message": "Nani?! Is that a sparkle in your eyes or just the reflection of my abs I flexed in your honor?? 😎✨"
+    "background": "park",
+    "message": "Wanna walk together?"
   },
   {
     "id": 6,
-    "character_name": "Tsundere girl",
-    "character_2_emotions": "tsu",
+    "character_name": "Riya",
+    "character_2_emotions": "blush",
     "action": "speak",
-    "background": "ddlc",
-    "message": "Ughhh shut up!! It's not like I look at your abs folder every night before bed or anything! 😳"
-  },
-  {
-    "id": 7,
-    "character_name": "Ankur Senpai",
-    "character_1_emotions": "aks",
-    "action": "speak",
-    "background": "ddlc",
-    "message": "Hmph. As expected of my number one tsundere kitten. You hide your love behind layers of spicy denial~ 😏"
-  },
-  {
-    "id": 8,
-    "character_name": "Tsundere girl",
-    "character_2_emotions": "tsu",
-    "action": "speak",
-    "background": "ddlc",
-    "message": "Y-you make my heart do parkour and I hate it!! Go simp for someone else!! 😠💔💘"
-  },
-  {
-    "id": 9,
-    "character_name": "Ankur Senpai",
-    "character_1_emotions": "aks",
-    "action": "speak",
-    "background": "ddlc",
-    "message": "Sorry kitten, my loyalty is harder than my jawline—unbreakable and exclusively yours 😤💪"
-  },
-  {
-    "id": 10,
-    "character_name": "Tsundere girl",
-    "character_2_emotions": "tsu",
-    "action": "speak",
-    "background": "ddlc",
-    "message": "KYAAAAAA!! You idiot!! Why are you like this!! 😖💕 *proceeds to punch him lovingly into the stratosphere* 🚀"
+    "background": "park",
+    "message": "Sure, I'd like that."
   }
 ]
